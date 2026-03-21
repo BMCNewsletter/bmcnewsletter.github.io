@@ -1,0 +1,9 @@
+[
+    {"slug": "welcome", "name": "Welcome"},
+    {
+        "section": "Section Template",
+        "articles": [
+            {"slug": "template", "name": "Template File"}
+        ]
+    }
+]
