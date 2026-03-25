@@ -8,7 +8,7 @@
   
 ### Our Staff
 *BMCN's staff team has been around, writing and editing articles since BMCN was founded.*
-  **Human Resources**
+**Human Resources**
   - CEOs: *JackTheFounder, Eulm*
   - Manager: *Open Spot*
   - Head News Reporter: *Open Spot*
@@ -16,7 +16,7 @@
   - HR Editors: *Aayan, Chromium*
   - HR Photographers: *Sans, Blamster858*
   - HR Videographers: *Lobster*
-  **Regular Staff**
+**Regular Staff**
   - News Anchors: *Fire, Youb19*
   - Reporters: *Issak, Redgamer, Luna*
   - Journalists: *Lupus, Masta*
