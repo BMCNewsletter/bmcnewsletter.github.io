@@ -1,5 +1,5 @@
 # Welcome to BMCN,
-## The Official Newsletter of BendersMC
+## *The Official Newsletter of BendersMC*
 
 
 ### BMCN Introduction
