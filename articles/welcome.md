@@ -1,4 +1,4 @@
-# Welcome to BMCN redesign!
-## We are still testing website versions.
+# Welcome to BMCN,
+## The Official Newsletter of BendersMC
 ### Come back later!
 :)
