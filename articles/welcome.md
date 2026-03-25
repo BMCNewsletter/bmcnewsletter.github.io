@@ -16,7 +16,7 @@
   - HR Editors: *Aayan, Chromium*
   - HR Photographers: *Sans, Blamster858*
   - HR Videographers: *Lobster*
-**Regular Staff**
+  **Regular Staff**
   - News Anchors: *Fire, Youb19*
   - Reporters: *Issak, Redgamer, Luna*
   - Journalists: *Lupus, Masta*
