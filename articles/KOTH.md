@@ -21,4 +21,4 @@ The event, "king of the hill", will happen every Friday at 5pm EST (Eastern Stan
 
 The event takes place on factions realm which can be joined by running the command "**/queue Factions**" in any server. Alternatively, you can use the factions portal in the lobby to join the server. To get there, make your way to the Abyssal biome in the spirit zone of warzone or run the command "**/tpa CaidenM007**" at the time of the event
 
-“*We look forward to seeing everyone there, Kopeka may also do some rank giveaways as well.*”
+```"*We look forward to seeing everyone there, Kopeka may also do some rank giveaways as well.*”```
