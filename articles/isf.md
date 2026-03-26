@@ -20,7 +20,7 @@ Furthermore, CreeperKillerSP2 threatened to fire JackTheFounder_ (or back then J
 
 ***
 
-![Image](https://bmcnewsletter.github.io/images/)
+![Image](https://bmcnewsletter.github.io/images/ISFEmperorsMark.tiff)
 
 ***
 
