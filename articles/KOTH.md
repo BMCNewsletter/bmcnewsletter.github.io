@@ -5,7 +5,7 @@
 
 **EDTIED BY CHROMIUM**
 
----
+***
 ## Event Details!
 
 The newest event of BendersMC has come. This time, it is a Factions event!
@@ -22,5 +22,7 @@ In the event, the person who stays as the "king of the hill" longest is the winn
 The event, "King of the Hill", will happen every Friday at 5 pm EST (Eastern Standard Timezone) with a duration of 10 minutes per game.
 
 The event takes place on the factions realm, which can be joined by running the command "**/queue Factions**" in any server. Alternatively, you can use the factions portal in the lobby to join the server. To get there, make your way to the Abyssal biome in the spirit zone of Warzone, or run the command "**/tpa CaidenM007**" at the time of the event
+
+***
 
 > *"We look forward to seeing everyone there, Kopeka may also do some rank giveaways as well."*
