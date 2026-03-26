@@ -17,7 +17,8 @@
         "articles": [
             {"slug": "syphcasino", "name": "SyphCasino"},
             {"slug": "aon", "name": "Attack on Nexus"},
-            {"slug": "pwcourt", "name": "Pwarp Court"}
+            {"slug": "pwcourt", "name": "Pwarp Court"},
+            {"slug": "lockdown", "name": "Lockdown"}
         ]
     }
 ]
