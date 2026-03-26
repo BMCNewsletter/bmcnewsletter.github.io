@@ -5,10 +5,14 @@
         "articles": [
             {"slug": "KOTH", "name": "Factions: King of the Hill Event"}
         ]
+    }
+    {
         "section": "2026",
         "articles": [
             {"slug": "KOTH", "name": "Factions: King of the Hill Event"}
         ]
+    }
+    {
         "section": "2025",
     }
 ]
