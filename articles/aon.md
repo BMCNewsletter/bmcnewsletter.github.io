@@ -1,1 +1,4 @@
+# Attack on Nexus
+---
 
+The largest state in the Grand Republic, Nexus, has suffered a devastating attack. On April Fifth, at around 1:35 p.m. Eastern Time, their Discord was flooded with hundreds of messages pinging everyone, most linking to a suspicious alternate server. As chaos unfolded, a “nuke” began banning all non-admin members, cutting off communication and destroying their home. Over 300 players are now left stranded. Despite being part of the Republic, Nexus was largely self-governed and independent. They are now urgently seeking help to rebuild their once-great empire. If you wish to support, message Arcticpenguin directly. The main suspect behind this major breach is Guillez29, a member of the Imperials, who had previously expressed dissatisfaction after rejoining the Republic.
