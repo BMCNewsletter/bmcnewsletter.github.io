@@ -12,7 +12,9 @@ In this event, you are tasked with standing your ground in the king of the hill 
 
 For those who play Factions, you know that there are NO seasonals in that realm. Only mythic weapons exist.
 In the event, the person who stays as the "king of the hill" longest is the winner. If you win, you earn general prizes such as the purifying essence" being an extraordinarily rare warzone crafting item that can turn a powerful dark spirit axe into the ultra rare pure variant, a magic wand for soul binding, and an exclusive rank that appears on tab that you get until the next king of the hill rank rotation. These are not the only prizes you can get though. *The rest of them are a mystery…*
----
+
+<img width="1860" height="920" alt="image" src="https://github.com/user-attachments/assets/47ac2288-2c86-4e61-865f-2f4f66c434bc" />
+
 ## Event Time & Location!
 
 The event, "king of the hill", will happen every Friday at 5pm EST (Eastern Standard Timezone) with a duration of 10 minutes per game.
