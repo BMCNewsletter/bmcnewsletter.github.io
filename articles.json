@@ -3,7 +3,6 @@
     {
         "section": "Articles",
         "articles": [
-            {"slug": "template", "name": "Template File"}
             {"slug": "KOTH", "name": "Factions: King of the Hill Event"}
         ]
     }
