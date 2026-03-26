@@ -17,13 +17,6 @@ A lot of players assume that this clan is new and nobody should blame them. But 
 
 This clan was founded by JackTheFounder_ and Blamster858. This clan was made when JackTheFounder_ worked for !!!Library as a Jr. Manager. But CreeperKillerSP2 did not see this clan well and hated it. 
 Furthermore, CreeperKillerSP2 threatened to fire JackTheFounder_ (or back then Jackthetitan___). Jack chose to quit and soon the ISF grew in power. 
-
-***
-
-![Image](https://bmcnewsletter.github.io/images/ISFEmperorsMark.tiff)
-
-***
-
 Today the ISF stands as a growing reborn clan that is allied with the Imperials and is enemies with basically all of the enemies of the Imperials plus Saber Clan.
 
 ***
