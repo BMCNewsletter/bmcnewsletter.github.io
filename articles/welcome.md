@@ -1,6 +1,7 @@
 # Welcome to BMCN,
 ## *The Official Newsletter of BendersMC*
 
+---
 
 ### BMCN Introduction
 *BMCN stands for The BendersMC Newsletter. BMCN is the current leading newsletter, which has an official Discord and YouTube channel.*
@@ -9,10 +10,13 @@
 ### Our Staff
 *BMCN's staff team has been around, writing and editing articles since BMCN was founded.*
 
+**Founder of BMCH-BMCN:**
+  - *JackTheFounder*
+
 **Human Resources**
 
   - CEOs: *JackTheFounder, Eulm*
-  - Manager: *Open Spot*
+  - General Manager: *Open Spot*
   - Head News Reporter: *Open Spot*
   - HR Reporters: *ForwardHarbor*
   - HR Editors: *Aayan, Chromium*
@@ -28,3 +32,12 @@
   - Photographers: *Silver*
   - Designers: *Open Spots*
   - Moderators: *The Coolest Man*
+
+##### Former HR Staff
+
+  - CEOs: *yJackie*
+  - HR Manager: *FishyMC*
+  - HR Reporters: *None*
+  - HR Editors: *None*
+  - HR Photographers: *None*
+  - HR Videographers: *None*
