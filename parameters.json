@@ -2,7 +2,7 @@
   "brand": {
     "text": "BMC",
     "accent": "N",
-    "page_title_suffix": "BMCN"
+    "page_title_suffix": "BMC Newsletter"
   },
 
   "colors": {
@@ -111,7 +111,7 @@
   "fonts": {
     "google_import":    "https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400&display=swap",
     "body_family":      "'Cormorant Garamond', Georgia, serif",
-    "body_size":        "19px",
+    "body_size":        "25px",
     "body_line_height": "1.75",
     "display_family":   "'Playfair Display', serif",
     "mono_family":      "'DM Mono', monospace"
