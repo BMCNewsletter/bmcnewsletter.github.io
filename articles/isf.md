@@ -11,7 +11,7 @@ A lot of players assume that this clan is new and nobody should blame them. But 
 
 ***
 
-![Image](https://bmcnewsletter.github.io/images/ISF-Logo.png)
+![Image](https://bmcnewsletter.github.io/images/ISF Logo.png)
 
 ***
 
@@ -20,7 +20,7 @@ Furthermore, CreeperKillerSP2 threatened to fire JackTheFounder_ (or back then J
 
 ***
 
-![Image](https://bmcnewsletter.github.io/images/ISF-Test-logo.webp)
+![Image](https://bmcnewsletter.github.io/images/ISF Test logo.webp)
 
 ***
 
