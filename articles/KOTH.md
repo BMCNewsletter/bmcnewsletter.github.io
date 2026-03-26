@@ -1,5 +1,5 @@
 # Caiden’s Factions: King of the Hill Event
-***
+------
 **WRITTEN BY JACK**
 
 **EDITED BY CHROMIUM**
