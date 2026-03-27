@@ -1070,7 +1070,7 @@ main {
         if (itemCount === 0) html = '<div class="search-empty">No articles found</div>';
       }
       dropdown.innerHTML = html || '<div class="search-empty">No articles found</div>';
-      dropdown.querySelectorAll('.search-itemf').forEach(el => {
+      dropdown.querySelectorAll('.search-item').forEach(el => {
         el.addEventListener('mousedown', e => { e.preventDefault(); navigate(el.dataset.slug); });
       });
       dropdown.classList.add('open');
