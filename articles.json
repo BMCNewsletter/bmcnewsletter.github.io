@@ -22,7 +22,8 @@
             {"slug": "isf", "name": "Reborn Empire: ISF Birth"},
             {"slug": "strikedown", "name": "Strikedown (Mini Article)"},
             {"slug": "dragonpark", "name": "Pwarp DragonPark"},
-            {"slug": "nightwolves", "name": "The Night Wolves"}
+            {"slug": "nightwolves", "name": "The Night Wolves"},
+            {"slug": "UCSRreturn", "name": "The Grand Return of the UCSR"}
         ]
     }
 ]
