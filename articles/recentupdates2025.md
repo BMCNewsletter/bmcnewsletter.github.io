@@ -28,7 +28,7 @@ In the relatively recent launch of staff member plushies in the lotus shop, they
 Plushie -> $5.99 (You get your skin but it is not permanently in the lotus shop)
 Plushie+ -> $12.99 (You get a plushie that anybody can purchase in the Lotus shop permanently)
 
-| Plushie: | Plushie+: |
+| Plushie | Plushie+ |
 |---|---|
 | $5.99 | $12.99 |
 | You get your skin but it is not permanently in the lotus shop | You get a plushie that anybody can purchase in the Lotus Shop Permanently |
