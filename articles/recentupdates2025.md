@@ -19,3 +19,16 @@ If a guild fails to pay their taxes (they can make autopay taxes on to prevent t
 
 ##### Proximity Voice Chat
 The Proximity voice chat if you don’t know, is a voice chat in-game where you can hear and talk to ANYBODY within a maximum of 60 blocks distance near you. Somebody’s voice gets quieter as y’all are further apart. You can now chat with your friends by just running the command /audio on Java and if you’re on Bedrock, /audioqrcode. NOTICE: If you say anything that you’d get muted for in regular chat, you have a high possibility of being VC-banned FOREVER.
+
+##### Chat Games
+For a very long time, chat games were on BMC before being removed in the past few months due to constant resets/wipes. A lot of players love to do the chat games as a way to not only learn how to type quicker, but also get money for players who need it. If you type the thing it says in chat games, you get money depending on the time it took you to complete the message/prompt.
+
+##### Plushies
+In the relatively recent launch of staff member plushies in the lotus shop, they had a few like Blitz, Kopeka, Action Genius, Lancer, and more. Recently, they added a way so that ANYBODY can get their own skin as a plushie in two options
+Plushie -> $5.99 (You get your skin but it is not permanently in the lotus shop)
+Plushie+ -> $12.99 (You get a plushie that anybody can purchase in the Lotus shop permanently)
+
+| Plushie: | Plushie+: |
+|---|---|
+| $5.99 | $12.99 |
+| You get your skin but it is not permanently in the lotus shop | You get a plushie that anybody can purchase in the Lotus Shop Permanently |
