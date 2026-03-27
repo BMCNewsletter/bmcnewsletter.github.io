@@ -38,7 +38,8 @@
             {"slug": "TDLWar", "name": "TDL's Brief War"},
             {"slug": "GDCWar", "name": "War Against GDC"},
             {"slug": "bookbanning", "name": "Book Banning"},
-            {"slug": "VaultHunt", "name": "Vault Hunt"}
+            {"slug": "VaultHunt", "name": "Vault Hunt"},
+            {"slug": "FactionsUpdate", "name": "Factions Update"}
         ]
     }
 ]
