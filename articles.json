@@ -25,8 +25,9 @@
             {"slug": "nightwolves", "name": "The Night Wolves"},
             {"slug": "UCSRreturn", "name": "The Grand Return of the UCSR"},
             {"slug": "WarNeverEnds", "name": "War Never Ends: UCSR War On Imperials"},
-            {"slug": "TCUConflict", "name": "TCU Conflict"}
-            {"slug": "PhoenixWar", "name": "Phoenix War"}
+            {"slug": "TCUConflict", "name": "TCU Conflict"},
+            {"slug": "PhoenixWar", "name": "Phoenix War"},
+            {"slug": "OctoberUpdates", "name": "October Updates"}
         ]
     }
 ]
