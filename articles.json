@@ -39,8 +39,9 @@
             {"slug": "GDCWar", "name": "War Against GDC"},
             {"slug": "bookbanning", "name": "Book Banning"},
             {"slug": "VaultHunt", "name": "Vault Hunt"},
-            {"slug": "FactionsUpdate", "name": "Factions Update"}
-            {"slug": "staffleaking", "name": "BendersMC Staff Leak"}
+            {"slug": "FactionsUpdate", "name": "Factions Update"},
+            {"slug": "staffleaking", "name": "BendersMC Staff Leak"},
+            {"slug": "BMCNneutrality", "name": "BMCN Neutrality"}
         ]
     }
 ]
