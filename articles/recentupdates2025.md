@@ -12,10 +12,6 @@ As many have already seen, guilds have been re-added and are much different than
 
 If a guild fails to pay their taxes (they can make autopay taxes on to prevent this), they will have their guild suspended and it can have major effects when suspended. One major effect of this is that somebody can pay their tax and buy their guild if they have the necessary funds that the guild failed to give. Within the guilds, there is a guild shop where members of that guild can bid items to anybody whether they are in a guild or not. One of the guild perks is a level boost. 3 guild levels are determined by your member count.
 
-Level 1: 1-10 members -> 2% exp boost for all members
-Level 2: 11-25 members -> 7% exp boost for all members
-Level 3: 26+ members -> 10% exp boost for all members
-
 | Level 1: | Level 2: | Level 3: |
 |---|---|---|
 | 1-10 members | 11-25 members | 26+ members |
