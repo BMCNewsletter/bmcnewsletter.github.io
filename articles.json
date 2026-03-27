@@ -24,6 +24,12 @@
             {"slug": "dragonpark", "name": "Pwarp DragonPark"},
             {"slug": "nightwolves", "name": "The Night Wolves"},
             {"slug": "UCSRreturn", "name": "The Grand Return of the UCSR"},
+            {"slug": "WarNeverEnds", "name": "War Never Ends: UCSR War On Imperials"},
+            {"slug": "TCUConflict", "name": "TCU Conflict"},
+            {"slug": "PhoenixWar", "name": "Phoenix War"},
+            {"slug": "OctoberUpdates", "name": "October Updates"},
+            {"slug": "OctoberClanNews", "name": "October Clan News"},
+            {"slug": "ANewDawn", "name": "A New Dawn"},
         ]
     }
 ]
