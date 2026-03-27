@@ -31,7 +31,8 @@
             {"slug": "OctoberClanNews", "name": "October Clan News"},
             {"slug": "ANewDawn", "name": "A New Dawn"},
             {"slug": "RapidDissolution", "name": "Rapid Dissolution"},
-            {"slug": "closecall", "name": "Close Call"}
+            {"slug": "closecall", "name": "Close Call"},
+            {"slug": "guildsreturn", "name": "Return of the Guilds"}
         ]
     }
 ]
