@@ -19,7 +19,6 @@ Level 3: 26+ members -> 10% exp boost for all members
 | Level 1: | Level 2: | Level 3: |
 |---|---|---|
 | 1-10 members | 11-25 members | 26+ members |
-|---|---|---|
 | 2% exp boost | 7% exp boost | 10% exp boost |
 
 ##### Proximity Voice Chat
