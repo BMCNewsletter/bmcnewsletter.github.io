@@ -35,8 +35,9 @@
             {"slug": "guildsreturn", "name": "Return of the Guilds"},
             {"slug": "recentupdates2025", "name": "Recent Updates"},
             {"slug": "EON", "name": "EON"},
-            {"slug": "TDLWar", "name": "TDL's Brief War"}
-            {"slug": "GDCWar", "name": "War Against GDC"}
+            {"slug": "TDLWar", "name": "TDL's Brief War"},
+            {"slug": "GDCWar", "name": "War Against GDC"},
+            {"slug": "bookbanning", "name": "Book Banning"}
         ]
     }
 ]
