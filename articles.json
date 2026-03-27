@@ -28,6 +28,7 @@
             {"slug": "TCUConflict", "name": "TCU Conflict"},
             {"slug": "PhoenixWar", "name": "Phoenix War"},
             {"slug": "OctoberUpdates", "name": "October Updates"}
+            {"slug": "OctoberClanNews", "name": "October Clan News"}
         ]
     }
 ]
