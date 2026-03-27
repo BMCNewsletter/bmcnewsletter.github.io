@@ -16,5 +16,11 @@ Level 1: 1-10 members -> 2% exp boost for all members
 Level 2: 11-25 members -> 7% exp boost for all members
 Level 3: 26+ members -> 10% exp boost for all members
 
+| Level 1: | Level 2: | Level 3: |
+|---|---|---|
+| 1-10 members | 11-25 members | 26+ members |
+|---|---|---|
+| 2% exp boost | 7% exp boost | 10% exp boost |
+
 ##### Proximity Voice Chat
 The Proximity voice chat if you don’t know, is a voice chat in-game where you can hear and talk to ANYBODY within a maximum of 60 blocks distance near you. Somebody’s voice gets quieter as y’all are further apart. You can now chat with your friends by just running the command /audio on Java and if you’re on Bedrock, /audioqrcode. NOTICE: If you say anything that you’d get muted for in regular chat, you have a high possibility of being VC-banned FOREVER.
