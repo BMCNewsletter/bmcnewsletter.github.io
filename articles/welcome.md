@@ -20,24 +20,29 @@
   - Head News Reporter: *Open Spot*
   - HR Reporters: *ForwardHarbor*
   - HR Editors: *Aayan, Chromium*
-  - HR Photographers: *Sans, Blamster858*
+  - HR Photographers: *Sans*
   - HR Videographers: *Lobster*
   
 ##### Regular Staff
   
-  - News Anchors: *Fire, Youb19*
-  - Reporters: *Issak, Redgamer, Luna*
-  - Journalists: *Lupus, Masta*
+  - News Anchors: *Open Spots*
+  - Reporters: *Redgamer, Luna*
+  - Journalists: *Issak, Masta, Snizzle*
   - Editors: *Open Spots*
-  - Photographers: *Silver*
+  - Photographers: *Open Spots*
   - Designers: *Open Spots*
-  - Moderators: *The Coolest Man*
+  - Moderators: *Open Spots*
 
-##### Former HR Staff
+##### Honored Former HR Staff
 
   - CEOs: *yJackie*
-  - HR Manager: *FishyMC*
-  - HR Reporters: *None*
+  - HR Manager: *None*
+  - HR Reporters: *Mr. Morale, Youb19*
   - HR Editors: *None*
-  - HR Photographers: *None*
+  - HR Photographers: *Blamster858*
   - HR Videographers: *None*
+
+---
+#### Socials
+
+
