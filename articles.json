@@ -40,6 +40,7 @@
             {"slug": "bookbanning", "name": "Book Banning"},
             {"slug": "VaultHunt", "name": "Vault Hunt"},
             {"slug": "FactionsUpdate", "name": "Factions Update"}
+            {"slug": "staffleaking", "name": "BendersMC Staff Leak"}
         ]
     }
 ]
