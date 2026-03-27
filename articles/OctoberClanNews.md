@@ -1,7 +1,7 @@
 # October Clan News
 ---
 
-WRITTEN BY BENI AND EULM
+WRITTEN BY BEAR AND EULM
 
 ***
 
