@@ -24,7 +24,8 @@
             {"slug": "dragonpark", "name": "Pwarp DragonPark"},
             {"slug": "nightwolves", "name": "The Night Wolves"},
             {"slug": "UCSRreturn", "name": "The Grand Return of the UCSR"},
-            {"slug": "WarNeverEnds", "name": "War Never Ends: UCSR War On Imperials"}
+            {"slug": "WarNeverEnds", "name": "War Never Ends: UCSR War On Imperials"},
+            {"slug": "TCUConflict", "name": "TCU Conflict"}
         ]
     }
 ]
