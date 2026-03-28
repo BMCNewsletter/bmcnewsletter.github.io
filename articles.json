@@ -11,7 +11,8 @@
         "articles": [
             {"slug": "KOTH", "name": "Factions: King of the Hill Event"},
             {"slug": "HitBoySituation", "name": "The HitBoy Situation"},
-            {"slug": "MidJanuaryUpdates", "name": "Mid-January Updates}
+            {"slug": "MidJanuaryUpdates", "name": "Mid-January Updates"},
+            {"slug": "UCSRHappenings", "name": "UCSR Happenings"}
         ]
     },
     {
