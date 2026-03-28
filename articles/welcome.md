@@ -48,3 +48,5 @@
 [BendersMC Newsletter Discord](https://discord.gg/cKZdtBP23Q)
 
 [BendersMC Newsletter YoutTube Channel](https://www.youtube.com/@BendersMCNewsletter)
+
+[BendersMC Newsletter Twitter/X Account](https://x.com/bmcn_official?s=21)
