@@ -9,7 +9,8 @@
     {
         "section": "2026",
         "articles": [
-            {"slug": "KOTH", "name": "Factions: King of the Hill Event"}
+            {"slug": "KOTH", "name": "Factions: King of the Hill Event"},
+            {"slug": "HitBoySituation", "name": "The HitBoy Situation"}
         ]
     },
     {
