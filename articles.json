@@ -12,7 +12,8 @@
             {"slug": "KOTH", "name": "Factions: King of the Hill Event"},
             {"slug": "HitBoySituation", "name": "The HitBoy Situation"},
             {"slug": "MidJanuaryUpdates", "name": "Mid-January Updates"},
-            {"slug": "UCSRHappenings", "name": "UCSR Happenings"}
+            {"slug": "UCSRHappenings", "name": "UCSR Happenings"},
+            {"slug": "DarkLotusBetrayal", "name": "Dark Lotus Betrayal"}
         ]
     },
     {
