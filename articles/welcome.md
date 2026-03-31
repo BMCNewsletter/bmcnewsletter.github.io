@@ -46,6 +46,10 @@
 
   - Server Booster: *None*
   - Patron: *Blamster858, JackTheFounder, Snizzle, EulmDev*
+###### Special Notes of Appreciation from Ownership
+
+> *"Thank you, Snizzle, for helping forge the BMCN website for free" - JackTheFounder*
+
 
 #### Honored Former HR Staff
 
