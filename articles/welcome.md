@@ -25,15 +25,29 @@
   
 ##### Regular Staff
   
-  - News Anchors: *Open Spots*
-  - Reporters: *Redgamer, Luna*
-  - Journalists: *Issak, Masta, Snizzle*
+  - News Anchors: *Redgamer*
+  - Reporters: *Snizzle*
+  - Journalists: *Issak, Masta*
   - Editors: *Open Spots*
   - Photographers: *Open Spots*
   - Designers: *Open Spots*
+  - Graphic Designers: *Open Spots*
   - Moderators: *Open Spots*
 
-##### Honored Former HR Staff
+##### Specialized Player Positions
+
+  - Partner: *LightArrow_, Aayan, Snizzle*
+  - BMCN Press: *Lupus, Yuob19, Achelous*
+  - Consultant: *Ice, LightArrow_, Sheep, Hagrid, D3AD, ByPass, Travis47, GP, Syphmoonboy, Quagsire, Ben, ForwardHarbor, Snizzle, Issak*
+  - Judge: *EulmDev, JackTheFounder*
+  - Lawyer: *JackTheFounder, Issak, Aayan, Fire, ByPass, Sans*
+
+##### Patrons to BMCN
+
+  - Server Booster: *None*
+  - Patron: *Blamster858, JackTheFounder, Snizzle, EulmDev*
+
+#### Honored Former HR Staff
 
   - CEOs: *yJackie*
   - HR Manager: *None*
