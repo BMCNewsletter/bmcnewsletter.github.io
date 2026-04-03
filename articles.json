@@ -1,9 +1,9 @@
 [
     {"slug": "welcome", "name": "Home"},
+    {"slug": "staff", "name": "Our Team"},
     {
         "section": "This Month's Articles",
         "articles": [
-            {"slug": "KOTH", "name": "Factions: King of the Hill Event"}
         ]
     },
     {
