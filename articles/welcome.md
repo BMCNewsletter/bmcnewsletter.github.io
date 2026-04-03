@@ -45,7 +45,7 @@
 ##### Patrons to BMCN
 
   - Server Booster: *None*
-  - Patron: *Blamster858, JackTheFounder, Snizzle, EulmDev*
+  - Patron: *Blamster858, JackTheFounder, Snizzle, EulmDev, Travis47, Blyke*
 ###### Special Notes of Appreciation from Ownership
 
 > *"Thank you, Snizzle, for helping forge the BMCN website for free" - JackTheFounder*
@@ -61,10 +61,24 @@
   - HR Videographers: *None*
 
 ---
-#### Socials
+#### BMCN Socials
 
 [BendersMC Newsletter Discord](https://discord.gg/cKZdtBP23Q)
 
 [BendersMC Newsletter YoutTube Channel](https://www.youtube.com/@BendersMCNewsletter)
 
 [BendersMC Newsletter Twitter/X Account](https://x.com/bmcn_official?s=21)
+
+#### BendersMC Official Socials
+
+[BendersMC Discord](https://discord.gg/bendersmc)
+
+[BendersMC YouTube Channel](https://www.youtube.com/@BendersMC)
+
+[BendersMC Twitter/X Account](https://x.com/BendersMCServer)
+
+[BendersMC Instagram Account](https://instagram.com/play.bendersmc.co/?hl=en)
+
+[BendersMC TikTok Account](https://tiktok.com/@play.bendersmc.co)
+
+[BendersMC SNAPCHAT](https://snapchat.com/add/bendersmc)
