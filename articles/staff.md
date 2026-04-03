@@ -1,4 +1,7 @@
-#### Our Staff
+
+
+---
+## Our Staff
 *BMCN's staff team has been around, writing and editing articles since BMCN was founded.*
 
 **Founder of BMCH-BMCN:**
