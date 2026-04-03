@@ -1,4 +1,4 @@
-
+![Image](https://bmcnewsletter.github.io/images/JackSexyPicBMCN.png)
 
 ---
 ## Our Staff
