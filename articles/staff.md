@@ -23,7 +23,7 @@
   - Reporters: *Snizzle*
   - Journalists: *Issak, Masta*
   - Editors: *Open Spots*
-  - Photographers: *Open Spots*
+  - Photographers: *Gandalfke*
   - Designers: *Open Spots*
   - Graphic Designers: *Open Spots*
   - Moderators: *Open Spots*
