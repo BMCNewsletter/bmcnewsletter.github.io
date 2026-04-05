@@ -22,7 +22,7 @@
   - News Anchors: *Redgamer*
   - Reporters: *Snizzle*
   - Journalists: *Issak, Masta, ForwardHarbor*
-  - Editors: *Rein*
+  - Editors: *Rein, Cranix*
   - Photographers: *Gandalfke*
   - Designers: *Open Spots*
   - Graphic Designers: *Open Spots*
@@ -32,7 +32,7 @@
 
   - Partner: *LightArrow_, Aayan, Snizzle*
   - BMCN Press: *Lupus, Yuob19, Achelous, UINova06*
-  - Consultant: *Ice, LightArrow_, Sheep, Hagrid, D3AD, ByPass, Travis47, GP, Syphmoonboy, Quagsire, Ben, ForwardHarbor, Snizzle, Issak*
+  - Consultant: *Ice, LightArrow_, Sheep, Dyplecher, Hagrid, D3AD, ByPass, Travis47, GP, Syphmoonboy, Quagsire, Ben, ForwardHarbor, Snizzle, Issak*
   - Judge: *EulmDev, JackTheFounder*
   - Lawyer: *JackTheFounder, Issak, Aayan, ByPass, Sans*
 
