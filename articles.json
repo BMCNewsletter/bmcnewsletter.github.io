@@ -4,6 +4,7 @@
     {
         "section": "This Month's Articles",
         "articles": [
+            {"slug": "earlyapril", "name": "Early April News"}
         ]
     },
     {
@@ -15,7 +16,8 @@
             {"slug": "UCSRHappenings", "name": "UCSR Happenings"},
             {"slug": "DarkLotusBetrayal", "name": "Dark Lotus Betrayal"},
             {"slug": "FebuaryUpdates", "name": "Febuary Updates"},
-            {"slug": "ImpsEERecap", "name": "Imperials vs. Elemental Empire Recap"}
+            {"slug": "ImpsEERecap", "name": "Imperials vs. Elemental Empire Recap"},
+            {"slug": "earlyapril", "name": "Early April News"}
         ]
     },
     {
