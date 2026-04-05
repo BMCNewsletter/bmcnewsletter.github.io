@@ -13,11 +13,11 @@ A lot has happened so far in April! Most of these events have happened on Discor
 
 First off, the new Easter Bunny seasonal crate! Every month, BendersMC, releases a couple of new seasonal crates, and they are epic! 
 
-![Image](https://bmcnewsletter.github.io/images/EarlyEasterArticle2.webp)
+![Image](https://bmcnewsletter.github.io/images/Easter.seasonal.webp)
 
 Some of the previous seasonal sets have become extremely expensive to buy due to quantity (a.k.a. how rare it is)! This seasonal crate, like all others, consists of a helmet, chestplate, leggings, boots, hat, staff, sword, pickaxe, axe, fishing rod, shield, and shovel! This is only the first set this month, and it's already EPIC!
 
-![Image](https://bmcnewsletter.github.io/images/Easter.seasonal.webp)
+![Image](https://bmcnewsletter.github.io/images/EarlyEasterArticle2.webp)
 
 ---
 
