@@ -23,7 +23,7 @@ Some of the previous seasonal sets have become extremely expensive to buy due to
 
 The second huge event this month was the BMCN revamp. BMCN was pretty inactive until then, and it was slowly dying out. After much planning, BMCN ownership made new programs that started its revival! Some of those programs were the patron program that funds the upscaled payment system, the events system, and the new website that was started by Snizzle! Many thanks for his much-appreciated help.
 
-*Insert Picture Here*
+![Image](https://bmcnewsletter.github.io/images/bmcnposter.webp)
 
 The Upscaled payment system nearly doubled the entire journalism and photography department's payments when making articles. It is being funded by the amazing support of our donors, who can be found on the staff page! 
 
@@ -41,7 +41,7 @@ The third thing is the insane money leaderboard in Survival 1! Many remember the
 
 The last thing is the revival of the previously active Holy Church of BendersMC! The mission of this church is to promote charity, kindness, and peace on BendersMC and make a place for Christian and Non-Christian players to engage socially and to have a team and peace throughout their lives on the server.
 
-*Insert Picture Here*
+![Image](https://bmcnewsletter.github.io/images/holychurchofbendersmc.webp)
 
 The Holy Church can be found at the link at the bottom of this website! The Church is reviving and it is looking for all players, whether Christian, Muslim, Atheist, or any other to join its ranks to spread the wellness of charity and peace on the server! It is to make a great community and they want you to become clergy! 
 
