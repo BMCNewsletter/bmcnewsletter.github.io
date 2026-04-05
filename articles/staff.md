@@ -22,7 +22,7 @@
   - News Anchors: *Redgamer*
   - Reporters: *Snizzle*
   - Journalists: *Issak, Masta*
-  - Editors: *Open Spots*
+  - Editors: *Rein*
   - Photographers: *Gandalfke*
   - Designers: *Open Spots*
   - Graphic Designers: *Open Spots*
@@ -34,7 +34,7 @@
   - BMCN Press: *Lupus, Yuob19, Achelous, UINova06*
   - Consultant: *Ice, LightArrow_, Sheep, Hagrid, D3AD, ByPass, Travis47, GP, Syphmoonboy, Quagsire, Ben, ForwardHarbor, Snizzle, Issak*
   - Judge: *EulmDev, JackTheFounder*
-  - Lawyer: *JackTheFounder, Issak, Aayan, Fire, ByPass, Sans*
+  - Lawyer: *JackTheFounder, Issak, Aayan, ByPass, Sans*
 
 ##### Patrons to BMCN
 
