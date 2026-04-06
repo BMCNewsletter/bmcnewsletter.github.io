@@ -4,20 +4,22 @@
     {
         "section": "This Month's Articles",
         "articles": [
-            {"slug": "earlyapril", "name": "Early April News"}
+            {"slug": "earlyapril", "name": "Early April News"},
+            {"slug": "pwikea", "name": "Looking Back In Time: Pwarp Ikea"}
         ]
     },
     {
         "section": "2026",
         "articles": [
-            {"slug": "KOTH", "name": "Factions: King of the Hill Event"},
             {"slug": "HitBoySituation", "name": "The HitBoy Situation"},
             {"slug": "MidJanuaryUpdates", "name": "Mid-January Updates"},
             {"slug": "UCSRHappenings", "name": "UCSR Happenings"},
             {"slug": "DarkLotusBetrayal", "name": "Dark Lotus Betrayal"},
             {"slug": "FebuaryUpdates", "name": "Febuary Updates"},
+            {"slug": "KOTH", "name": "Factions: King of the Hill Event"},
             {"slug": "ImpsEERecap", "name": "Imperials vs. Elemental Empire Recap"},
-            {"slug": "earlyapril", "name": "Early April News"}
+            {"slug": "earlyapril", "name": "Early April News"},
+            {"slug": "pwikea", "name": "Looking Back In Time: Pwarp Ikea"}
         ]
     },
     {
