@@ -1,9 +1,9 @@
 # Looking Back In Time: Pwarp IKEA
-—-
+---
 
 WRITTEN BY JACKTHEFOUNDER
 
-—-
+---
 
 Pwarp IKEA was a shop on the old Survival that was very iconinc. They sold armor trims, enchanted books, potions, and even mob spawners which used to be able for a player to get but are now just a memory in time. 
 
