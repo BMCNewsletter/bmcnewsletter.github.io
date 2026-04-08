@@ -12,16 +12,16 @@
   - CEOs: *JackTheFounder, Eulm*
   - General Manager: *Open Spot*
   - Head News Reporter: *Open Spot*
-  - HR Reporters: *Open Spots*
+  - HR Reporters: *Redgamer, ForwardHarbor*
   - HR Editors: *Aayan, Chromium*
   - HR Photographers: *Sans*
   - HR Videographers: *Lobster*
   
 ##### Regular Staff
   
-  - News Anchors: *Redgamer*
-  - Reporters: *Snizzle*
-  - Journalists: *Issak, Masta, ForwardHarbor*
+  - News Anchors: *Snizzle*
+  - Reporters: *Issake*
+  - Journalists: *Open Spots*
   - Editors: *Rein, Cranix*
   - Photographers: *Gandalfke*
   - Designers: *Open Spots*
