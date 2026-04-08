@@ -7,13 +7,6 @@ EDITED BY REIN
 
 ---
 
-# Looking Back In Time: Pwarp IKEA
-—-
-
-WRITTEN BY JACKTHEFOUNDER
-
-—-
-
 Pwarp IKEA was a shop on the old Survival that was very iconic. They sold armor trims, enchanted books, potions, and even mob spawners which used to be able for a player to get but are now just a memory in time. 
 
 The pwarp, IKEA, last existed in 2025 when it had a peak in business. It was built by the player “William Afton” but had support from the leader of the Elemental Empire, “Steve”. 
