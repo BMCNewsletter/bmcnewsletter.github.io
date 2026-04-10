@@ -24,6 +24,7 @@
   - Journalists: *Open Spots*
   - Editors: *Rein, Cranix*
   - Photographers: *Gandalfke*
+  - Videographers: *FishyMC*
   - Designers: *Open Spots*
   - Graphic Designers: *Open Spots*
   - Moderators: *Open Spots*
