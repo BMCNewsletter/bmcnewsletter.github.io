@@ -12,12 +12,11 @@
   - CEOs: *JackTheFounder, Eulm*
   - General Manager: *Open Spot*
   - Managers: *Open Spots*
-  - Grand Consultant: *LightArrow_, Ice, Sheep, Dyplecher*
   - HR Reporters: *Redgamer, ForwardHarbor*
   - HR Editors: *Aayan, Chromium*
   - HR Photographers: *Sans*
   - HR Videographers: *Lobster*
-  - 
+  - Grand Consultant: *LightArrow_, Ice, Sheep, Dyplecher*
   
 ##### Regular Staff
   
