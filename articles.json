@@ -6,6 +6,7 @@
         "articles": [
             {"slug": "earlyapril", "name": "Early April News"},
             {"slug": "pwikea", "name": "Looking Back In Time: Pwarp Ikea"}
+            {"slug": "claninactivity", "name": "The EE and Imperial Inactivity"}
         ]
     },
     {
@@ -19,7 +20,8 @@
             {"slug": "KOTH", "name": "Factions: King of the Hill Event"},
             {"slug": "ImpsEERecap", "name": "Imperials vs. Elemental Empire Recap"},
             {"slug": "earlyapril", "name": "Early April News"},
-            {"slug": "pwikea", "name": "Looking Back In Time: Pwarp Ikea"}
+            {"slug": "pwikea", "name": "Looking Back In Time: Pwarp Ikea"},
+            {"slug": "claninactivity", "name": "The EE and Imperial Inactivity"}
         ]
     },
     {
