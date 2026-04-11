@@ -11,31 +11,32 @@
 
   - CEOs: *JackTheFounder, Eulm*
   - General Manager: *Open Spot*
-  - Head News Reporter: *Open Spot*
+  - Managers: *Open Spots*
+  - Grand Consultant: *LightArrow_, Ice, Sheep, Dyplecher*
   - HR Reporters: *Redgamer, ForwardHarbor*
   - HR Editors: *Aayan, Chromium*
   - HR Photographers: *Sans*
   - HR Videographers: *Lobster*
+  - 
   
 ##### Regular Staff
   
   - News Anchors: *Snizzle*
-  - Reporters: *Issake*
+  - Reporters: *Issak*
   - Journalists: *Open Spots*
   - Editors: *Rein, Cranix*
   - Photographers: *Gandalfke*
   - Videographers: *FishyMC*
   - Designers: *Open Spots*
-  - Graphic Designers: *Open Spots*
-  - Moderators: *Open Spots*
+  - Graphic Designers: *NOW HIRING!!*
+  - Moderators: *NOW HIRING!!*
 
 ##### Specialized Player Positions
 
   - Partner: *LightArrow_, Aayan, Snizzle*
   - BMCN Press: *Lupus, Yuob19, Achelous, UINova06*
-  - Consultant: *Ice, LightArrow_, Sheep, Dyplecher, Hagrid, D3AD, ByPass, Travis47, GP, Syphmoonboy, Quagsire, Ben, ForwardHarbor, Snizzle, Issak*
-  - Judge: *EulmDev, JackTheFounder*
-  - Lawyer: *JackTheFounder, Issak, Aayan, ByPass, Sans*
+  - Clan Consultants: *Hagrid, D3AD, ByPass, Travis47, GP, Syphmoonboy, Quagsire, Ben, ForwardHarbor, Snizzle, Issak*
+  - Event Manager: *NOW HIRING!!*
 
 ##### Patrons to BMCN
 
