@@ -11,8 +11,8 @@
 
   - CEOs: *JackTheFounder, Eulm*
   - General Manager: *Open Spot*
-  - Managers: *Chromium*
-  - HR Reporters: *Redgamer, ForwardHarbor*
+  - Managers: *Chromium, Redgamer*
+  - HR Reporters: *ForwardHarbor*
   - HR Editors: *Aayan, Rein*
   - HR Photographers: *Sans*
   - HR Videographers: *Lobster*
@@ -27,7 +27,7 @@
   - Photographers: *Gandalfke*
   - Videographers: *FishyMC*
   - Designers: *Open Spots*
-  - Graphic Designers: *NOW HIRING!!*
+  - Graphic Designers: *Rein*
   - Moderators: *NOW HIRING!!*
 
 ##### Specialized Player Positions
