@@ -16,7 +16,7 @@ This mission is important because the crew will be farther than any human being.
 ![Image](https://bmcnewsletter.github.io/images/ArtemisMission5.png)
 
 ## Returning
-The astronauts are returning very soon. NASA will get more data than the public because they need more data than us for experiments and more trips to the moon. The astronauts will return home on April 10th 2026, and the Orion will be on the shores of San Diego. Then the team will probably get interviews from people like CNN and ABC News. These astronauts are among the bravest people because they are facing the unknown of the moon.
+The astronauts are returned on April 10th, 2026. NASA will get more data than the public because they need more data than us for experiments and more trips to the moon. The Orion space capsol landed on the shores of San Diego on April 10th. They have already been getting many interviews by CNN and ABC and NBC. These astronauts are among the bravest people because they faced the unknown of the moon.
 
 ![Image](https://bmcnewsletter.github.io/images/ArtemisMission4.png)
 
