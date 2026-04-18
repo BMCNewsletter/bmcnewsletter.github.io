@@ -1,9 +1,9 @@
 # Artemis II Mission
 ---
 
-WRITTEN BY REDGAMER
+WRITTEN BY REDGAMER & JACKTHEFOUNDER
 
-EDITED BY REIN
+EDITED BY JACKTHEFOUNDER
 
 ---
 Have you heard of the Artemis II mission? If you haven’t, it's a space mission that slingshoted around the moon and back to earth in the Orion space capsule, discovering views of what the "Dark Side" of the moon looks like. They traveled into space and orbited the moon and while recording data and very nice photos of their observations. This whole mission was streamed live on YouTube for the whole world to see.
