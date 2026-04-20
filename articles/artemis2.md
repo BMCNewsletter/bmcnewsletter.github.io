@@ -21,4 +21,4 @@ The astronauts returned on April 10th, 2026. NASA has gotten much more data from
 ![Image](https://bmcnewsletter.github.io/images/ArtemisMission4.png)
 
 ---
-In conclusion, the Artemis II team members, made of 3 males and 1 female, achieved what no other humans have before. They faced unknown and they got to see many, many good views and they got to take many good pictures with Nikon Z9 and Nikon D5 DSLR cameras. They are like no others and they have made history in terms of space.
+In conclusion, the Artemis II team members, made of 3 males and 1 female, achieved what no other humans have since 1972. They faced what many have not and they got to see many, many good views and they got to take many good pictures with Nikon Z9 and Nikon D5 DSLR cameras. They are like no others and they have made history in terms of space.
