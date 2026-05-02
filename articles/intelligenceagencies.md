@@ -14,10 +14,14 @@ In the real world, there are agencies such as the CIA and the KGB, among others.
 Two examples that we will be covering in this article are the FIA and the BMCIS.
 
 ##### FIA
+
+![Image](https://bmcnewsletter.github.io/images/ImperialFederation.logo.png)
  
 The Federal Intelligence Agency is the intelligence organization of the Imperial Federation. They investigate cases from the Imperial Federation and mostly do their work for the clan. They don't cover much of the server.
 
 ##### BMCIS
+
+![Image](https://bmcnewsletter.github.io/images/BMCIS.logo.png)
 
 The BendersMC Intelligence & Security is a new independent intelligence organization. They cover cases from people on BendersMC and anonymously collect information to either give to moderators, publish, or keep private.
 
