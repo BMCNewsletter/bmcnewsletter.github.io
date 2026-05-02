@@ -13,18 +13,18 @@
   - General Manager: *Open Spot*
   - Managers: *Chromium, Redgamer*
   - HR Reporters: *ForwardHarbor*
-  - HR Editors: *Aayan, Rein*
-  - HR Photographers: *Sans*
+  - HR Editors: *Rein*
+  - HR Photographers: *Open Spots*
   - HR Videographers: *Lobster*
   - Grand Consultant: *LightArrow_, Ice, Sheep, Dyplecher*
   
 ##### Regular Staff
   
   - News Anchors: *Snizzle*
-  - Reporters: *Issak*
-  - Journalists: *Open Spots*
-  - Editors: *Cranix*
-  - Photographers: *Gandalfke*
+  - Reporters: *Open Spots*
+  - Journalists: *Issak*
+  - Editors: *Aayan*
+  - Photographers: *Gandalfke, Sans*
   - Videographers: *FishyMC*
   - Designers: *Open Spots*
   - Graphic Designers: *Rein*
@@ -33,7 +33,8 @@
 ##### Specialized Player Positions
 
   - Partner: *LightArrow_, Aayan, Snizzle*
-  - BMCN Press: *Lupus, Yuob19, Achelous, UINova06*
+  - BMCN Press: *Open Spots*
+  - Private Press: *Lupus, Yuob19, Achelous, UINova06*
   - Clan Consultants: *Hagrid, D3AD, ByPass, Travis47, GP, Syphmoonboy, Quagsire, Ben, ForwardHarbor, Snizzle, Issak*
   - Event Manager: *NOW HIRING!!*
 
