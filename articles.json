@@ -4,10 +4,7 @@
     {
         "section": "This Month's Articles",
         "articles": [
-            {"slug": "earlyapril", "name": "Early April News"},
-            {"slug": "pwikea", "name": "Looking Back In Time: Pwarp Ikea"},
-            {"slug": "claninactivity", "name": "The EE and Imperial Inactivity"},
-            {"slug": "artemis2", "name": "Artemis II Mission"}
+          {"slug": "intelligenceagencies", "name": "Intelligence Agencies"}
         ]
     },
     {
@@ -23,7 +20,8 @@
             {"slug": "earlyapril", "name": "Early April News"},
             {"slug": "pwikea", "name": "Looking Back In Time: Pwarp Ikea"},
             {"slug": "claninactivity", "name": "The EE and Imperial Inactivity"},
-            {"slug": "artemis2", "name": "Artemis II Mission"}
+            {"slug": "artemis2", "name": "Artemis II Mission"},
+            {"slug": "intelligenceagencies", "name": "Intelligence Agencies"}
         ]
     },
     {
