@@ -10,10 +10,10 @@
 ##### Human Resources
 
   - CEOs: *JackTheFounder, Eulm*
-  - General Manager: *Open Spot*
-  - Managers: *Chromium, Redgamer*
+  - General Manager: *Chromium*
+  - Managers: *Rein, Redgamer*
   - HR Reporters: *ForwardHarbor*
-  - HR Editors: *Rein*
+  - HR Editors: *Open Spots*
   - HR Photographers: *Open Spots*
   - HR Videographers: *Lobster*
   - Grand Consultant: *LightArrow_, Ice, Sheep, Dyplecher*
@@ -23,7 +23,7 @@
   - News Anchors: *Snizzle*
   - Reporters: *Open Spots*
   - Journalists: *Issak*
-  - Editors: *Aayan*
+  - Editors: *Open Spots*
   - Photographers: *Gandalfke, Sans*
   - Videographers: *FishyMC*
   - Designers: *Open Spots*
@@ -52,6 +52,6 @@
   - CEOs: *yJackie*
   - HR Manager: *None*
   - HR Reporters: *Mr. Morale, Youb19*
-  - HR Editors: *None*
+  - HR Editors: *Aayan*
   - HR Photographers: *Blamster858*
   - HR Videographers: *None*
