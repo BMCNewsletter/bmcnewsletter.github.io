@@ -11,23 +11,23 @@
 
   - CEOs: *JackTheFounder, Eulm*
   - General Manager: *Chromium*
-  - Managers: *Rein, Redgamer*
+  - Managers: *Rein, Snizzle*
   - HR Reporters: *ForwardHarbor*
   - HR Editors: *Open Spots*
   - HR Photographers: *Open Spots*
-  - HR Videographers: *Lobster*
+  - HR Videographers: *Lobster, FishyMC*
   - Grand Consultant: *LightArrow_, Ice, Sheep, Dyplecher*
   
 ##### Regular Staff
   
-  - News Anchors: *Snizzle*
+  - News Anchors: *Issak*
   - Reporters: *Open Spots*
-  - Journalists: *Issak*
-  - Editors: *Open Spots*
+  - Journalists: *NOW HIRING!!*
+  - Editors: *CLOSED*
   - Photographers: *Gandalfke, Sans*
-  - Videographers: *FishyMC*
-  - Designers: *Open Spots*
-  - Graphic Designers: *Rein*
+  - Videographers: *Open Spots*
+  - Designers: *NOW HIRING!!*
+  - Graphic Designers: *NOW HIRING!!*
   - Moderators: *NOW HIRING!!*
 
 ##### Specialized Player Positions
