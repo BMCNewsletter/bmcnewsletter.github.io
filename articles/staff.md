@@ -1,6 +1,5 @@
 ![Image](https://bmcnewsletter.github.io/images/JackSexyPicBMCN.png)
 
----
 ## Our Staff
 *BMCN's staff team has been around, writing and editing articles since BMCN was founded.*
 
