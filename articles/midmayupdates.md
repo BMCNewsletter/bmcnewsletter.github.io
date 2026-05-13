@@ -43,7 +43,7 @@ On BendersMC, the Lotus shop has been a very interesting addition. It has added 
 
 The new Lotus shop is an actual separated GUI this time, unlike the previous Lotus shop being connected to the /shop GUI. This shop now actually does a lot more. It has daily seasonal rotations, plushies, more furniture, and much more. This new one is a very nice addition to BendersMC. For some, it felt "Like the addition of seasonals" as it has a bunch of new ways to get seasonals. This new way of getting seasonals replaces the vault key in some sense with a cheaper way to get the old seasonals. It has a daily rotation of old seasonals that many wish they had gotten when they were around.
 
-![Image](https://bmcnewsletter/github.io/images/lotusshop.png)
+![Image](https://bmcnewsletter.github.io/images/lotusshop.png)
 
 ## Conclusion
 
