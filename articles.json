@@ -4,7 +4,8 @@
     {
         "section": "This Month's Articles",
         "articles": [
-          {"slug": "intelligenceagencies", "name": "Intelligence Agencies"}
+          {"slug": "intelligenceagencies", "name": "Intelligence Agencies"},
+            {"slug": "mayupdates", "name": "May Updates"}
         ]
     },
     {
@@ -21,7 +22,8 @@
             {"slug": "pwikea", "name": "Looking Back In Time: Pwarp Ikea"},
             {"slug": "claninactivity", "name": "The EE and Imperial Inactivity"},
             {"slug": "artemis2", "name": "Artemis II Mission"},
-            {"slug": "intelligenceagencies", "name": "Intelligence Agencies"}
+            {"slug": "intelligenceagencies", "name": "Intelligence Agencies"},
+            {"slug": "mayupdates", "name": "May Updates"}
         ]
     },
     {
