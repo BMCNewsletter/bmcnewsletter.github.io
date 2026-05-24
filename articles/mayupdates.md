@@ -50,11 +50,11 @@ The new Lotus shop is an actual, separate GUI this time, unlike the previous Lot
 
 On BendersMC, seasonals are a major part of the player experience. They offer overpowered items that are easily accessible as of now because of the Lotus Shop. They are even custom-made so that they look very cool. This is partially why people collect them and show them off. They have existed since the dawn of seasonals, when the Demon Set came out. Every month, they release new seasonals that just hit every time. This month, they did something new, which lasted for a couple of days.
 
-![Image](https://bmcnewsletter.github.io/images/may.seasonal.png)
+![Image](https://bmcnewsletter.github.io/images/May.seasonal.png)
 
 At first, they released the Egyptian-style set that was cool but not as popular as the one they released in mid-May. 
 
-![Image](https://bmcnewsletter.github.io/images/may2.seasonal.png)
+![Image](https://bmcnewsletter.github.io/images/May2.seasonal.png)
 
 During mid-May, they released the Star Wars themed set that, because of copyright, could not be called Star Wars, but everyone knew it was based on Star Wars. It had the Asoka Tano themed set, the Mandalorian themed Set, the Darth Vader themed set, and lastly, the Stormtrooper themed set. This was epic, but sadly, it only lasted a couple of days. This was a breakthrough, as before, BendersMC hadn't released many movie or show themed sets but ones that were themed to an object or element or theme in general.
 
