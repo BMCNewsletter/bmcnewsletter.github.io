@@ -11,7 +11,7 @@
   - CEOs: *JackTheFounder, Eulm*
   - General Manager: *Chromium*
   - Managers: *Rein, Snizzle*
-  - HR Reporters: *ForwardHarbor*
+  - HR Reporters: *ForwardHarbor, Redgamer*
   - HR Editors: *Open Spots*
   - HR Photographers: *Open Spots*
   - HR Videographers: *Lobster, FishyMC*
