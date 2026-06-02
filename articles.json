@@ -1,6 +1,7 @@
 [
     {"slug": "welcome", "name": "Home"},
     {"slug": "staff", "name": "Our Team"},
+    {"slug": "events", "name": "BMCN Events"},
     {
         "section": "This Month's Articles",
         "articles": [
