@@ -1,4 +1,11 @@
 # The Cozy Incident: A Hoax That Crossed Every Line
+---
+
+WRITTEN BY ZAK
+
+EDITED BY REIN
+
+---
 
 On May 28, 2026, at approximately 1:00 AM IST, a disturbing situation unfolded in The Celestial Empire's general chat involving Cozy (IGN: onix_sigma), a well-known builder within the community.
 
