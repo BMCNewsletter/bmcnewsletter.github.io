@@ -6,7 +6,8 @@
         "articles": [
           {"slug": "intelligenceagencies", "name": "Intelligence Agencies"},
             {"slug": "mayupdates", "name": "May Updates"},
-            {"slug": "peppapigsquad", "name": "Peppa Pig Squad"}
+            {"slug": "peppapigsquad", "name": "Peppa Pig Squad"},
+            {"slug": "newbending", "name": "New Bending"}
         ]
     },
     {
