@@ -4,8 +4,6 @@
     {
         "section": "This Month's Articles",
         "articles": [
-          {"slug": "intelligenceagencies", "name": "Intelligence Agencies"},
-            {"slug": "mayupdates", "name": "May Updates"},
             {"slug": "peppapigsquad", "name": "Peppa Pig Squad"},
             {"slug": "newbending", "name": "New Bending"},
             {"slug": "thecozyincident", "name": "The Cozy Incident"}
@@ -26,7 +24,10 @@
             {"slug": "claninactivity", "name": "The EE and Imperial Inactivity"},
             {"slug": "artemis2", "name": "Artemis II Mission"},
             {"slug": "intelligenceagencies", "name": "Intelligence Agencies"},
-            {"slug": "mayupdates", "name": "May Updates"}
+            {"slug": "mayupdates", "name": "May Updates"},
+            {"slug": "peppapigsquad", "name": "Peppa Pig Squad"},
+            {"slug": "newbending", "name": "New Bending"},
+            {"slug": "thecozyincident", "name": "The Cozy Incident"}
         ]
     },
     {
