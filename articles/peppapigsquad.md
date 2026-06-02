@@ -1,4 +1,11 @@
 # Formation of Peppa Pig Squad
+---
+
+WRITTEN BY ZAK
+
+EDITED BY REIN
+
+---
 
 On the 29th of April, 2026, the leader of The Nova Corporation (TNC), Nova, formally declared war on the Imperium of Man (IoM/Imperium), in what many saw as an attempt to revive TNC.
 
