@@ -13,7 +13,7 @@ On the 29th of April, 2026, the leader of The Nova Corporation (TNC), Nova, form
 
 This war caused the temporary alliance of TNC and Sentinel (also joined by Elementals Clan / EC), which was surprising at the time, given that both member clans had been enemies in the past. This temporary coalition destroyed the Imperium militarily.
 
-![Image](https://bmcnewsletter.github.io/image/IOMLogo.webp)
+![Image](https://bmcnewsletter.github.io/images/IOMLogo.webp)
 
 On May 10th, Sentinel left the war coalition as they considered the brief war a victory. They then declared war on TNC, as they were apparently lying to Sentinel about their neutrality in the EE–Imperial war.
 
