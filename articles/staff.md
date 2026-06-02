@@ -19,7 +19,7 @@
   
 ##### Regular Staff
   
-  - News Anchors: *Issak*
+  - News Anchors: *Issak, Zak*
   - Reporters: *Open Spots*
   - Journalists: *NOW HIRING!!*
   - Editors: *CLOSED*
@@ -34,13 +34,14 @@
   - Partner: *LightArrow_, Aayan, Snizzle*
   - BMCN Press: *Open Spots*
   - Private Press: *Lupus, Yuob19, Achelous, UINova06*
-  - Clan Consultants: *Hagrid, D3AD, ByPass, Travis47, GP, Syphmoonboy, Quagsire, Ben, ForwardHarbor, Snizzle, Issak*
+  - Clan Consultants: *Hagrid, D3AD, ByPass, Travis47, GP, Syphmoonboy, Quagsire, Ben, ForwardHarbor, Snizzle, Issak, ThatPolarPhantom, Dyplecher, Ice, LightArrow_, Aayan, Chromium, Rein, Sheep, ipaymytaxes (Coolman), Velrix*
   - Event Manager: *NOW HIRING!!*
 
 ##### Patrons to BMCN
 
   - Server Booster: *None*
-  - Patron: *Blamster858, JackTheFounder, Snizzle, EulmDev, Travis47, Blyke*
+  - Patron: *Blamster858, JackTheFounder, Snizzle, EulmDev, Travis47, Blyke, ipaymytaxes (Coolman), 104qpr, Velrix, Rein*
+  - Shareholders: *cheesehead, Rein, Velrix, Coolman, 104qpr*
 ###### Special Notes of Appreciation from Ownership
 
 > *"Thank you, Snizzle, for helping forge the BMCN website for free" - JackTheFounder*
