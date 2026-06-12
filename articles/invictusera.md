@@ -1,4 +1,11 @@
 # A New Era Awaits for Invictus
+---
+
+WRITTEN BY ZAK
+
+EDITED BY REIN
+
+---
 
 On June 2, 2026, at 7:46 PM IST, Invictus leader - Blood announced his departure from clan leadership. 
 
