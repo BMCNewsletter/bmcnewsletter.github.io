@@ -29,4 +29,4 @@ And follow shadows into green light.
 Where bamboo spears divide the air,  
 And wild leaves hide what should be bare,  
 Seek not the sky, nor mountain’s glow,  
-The second clue waits still and low.```
+The second clue waits still and low.
