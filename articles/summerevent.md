@@ -1,4 +1,11 @@
 # Massive Summer Event
+---
+
+WRITTEN BY ZAK
+
+EDITED BY REIN
+
+---
 
 BMC has officially released "L’Été des Éléments", a multi-week summer event packed with daily rewards, competitions, treasure hunts, custom crafting, mini-games, and limited-edition rewards.
 
