@@ -20,7 +20,7 @@ Count the same on both forgotten ways,
 Then rise where clouds consume the floor,  
 For silence guards the first locked door.
 
-The second riddle shifts attention toward a bamboo-filled region:
+**The second riddle shifts attention toward a bamboo-filled region:**
 
 From the watcher crowned near heaven’s line,  
 Turn where the dying sun declines,  
