@@ -7,7 +7,8 @@
         "articles": [
             {"slug": "peppapigsquad", "name": "Peppa Pig Squad"},
             {"slug": "newbending", "name": "New Bending"},
-            {"slug": "thecozyincident", "name": "The Cozy Incident"}
+            {"slug": "thecozyincident", "name": "The Cozy Incident"},
+            {"slug": "vaulthunt", "name": "2026 Vault Hunt"}
         ]
     },
     {
