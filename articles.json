@@ -35,7 +35,14 @@
             {"slug": "mayupdates", "name": "May Updates"},
             {"slug": "peppapigsquad", "name": "Peppa Pig Squad"},
             {"slug": "newbending", "name": "New Bending"},
-            {"slug": "thecozyincident", "name": "The Cozy Incident"}
+            {"slug": "thecozyincident", "name": "The Cozy Incident"},
+            {"slug": "vaulthunt", "name": "2026 Vault Hunt"},
+            {"slug": "summerevent", "name": "2026 Summer Event"},
+            {"slug": "invictusera", "name": "New Era For Invictus"},
+            {"slug": "endofd3adforge", "name": "The End of D3adForge"},
+            {"slug": "isbmcdying", "name": "Is BendersMC Dying?"},
+            {"slug": "3minutewar", "name": "The Three Minute War"},
+            {"slug": "eeimpdrama", "name": "Classic Imp x EE Drama"}
         ]
     },
     {
