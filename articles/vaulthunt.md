@@ -18,11 +18,11 @@ The first watcher waits where winds are thin,
 Not buried below, nor sealed within.  
 Count the same on both forgotten ways,  
 Then rise where clouds consume the floor,  
-For silence guards the first locked door.```
+For silence guards the first locked door.
 
 The second riddle shifts attention toward a bamboo-filled region:
 
-``` From the watcher crowned near heaven’s line,  
+From the watcher crowned near heaven’s line,  
 Turn where the dying sun declines,  
 Let one old number lose its height,  
 And follow shadows into green light.  
