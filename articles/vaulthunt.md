@@ -1,4 +1,11 @@
 # The Summer Vault Hunt  Begins
+---
+
+WRITTEN BY ZAK
+
+EDITED BY REIN
+
+---
 
 Shortly after the announcement of "L’Été des Éléments", BMC announced the first major challenge of the event - the Summer Vault Hunt.
 The hunt tasks players with locating four hidden NPCs scattered across the world. 
