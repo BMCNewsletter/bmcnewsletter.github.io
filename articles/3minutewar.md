@@ -1,4 +1,11 @@
 # The Three Minute War
+---
+
+WRITTEN BY ZAK
+
+EDITED BY EULM
+
+---
 
 On June 1, 2026, at approximately 7:34 PM IST, Invictus member Yanyanyve reported in the clan's Discord server that Fiulsi, a Viceroy (high leadership rank) of Elemental Clan (EC), had raided Invictus and attacked several of its members.
 
