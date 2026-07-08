@@ -25,5 +25,3 @@ Almost argued that EE was attempting to simplify two separate wars. He claimed t
 Almost pointed out  EE's departure from the GDC. He claimed that after leaving the coalition, EE leader Steve dismissed concerns from former allies, as shown through screenshots provided by almost. 
 
 The Imperial leader further accused EE of building its current position through betrayal of former allies rather than genuine growth. He argued that EE's present strength depends heavily on external support from allied factions such as Sentinels and claimed that EE itself is weaker than it was during its time within GDC. He also claimed that the Sentinels do not care about EE and in fact, are using them to fight another clan. 
-
-It is almost certain that EE would have fallen under UCSR influence had the coalition not intervened in the past.
