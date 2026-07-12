@@ -5,7 +5,8 @@
     {
         "section": "This Month's Articles",
         "articles": [
-            {"slug": "sentinelimperialwarover", "name": "Sentinel Declares Imperial War Over"}
+            {"slug": "sentinelimperialwarover", "name": "Sentinel Declares Imperial War Over"},
+            {"slug": "sentinelelementalwar", "name": "A Friendly War Between Sentinel and Elemental clan"}
         ]
     },
     {
