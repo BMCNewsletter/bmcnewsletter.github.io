@@ -6,7 +6,11 @@
         "section": "This Month's Articles",
         "articles": [
             {"slug": "sentinelimperialwarover", "name": "Sentinel Declares Imperial War Over"},
-            {"slug": "sentinelelementalwar", "name": "A Friendly War Between Sentinel and Elemental clan"}
+            {"slug": "sentinelelementalwar", "name": "A Friendly War Between Sentinel and Elemental clan"},
+            {"slug": "SentinelsxImperialsWarofWords", "name": "A War of Words Between Sentinel and Imperials"},
+            {"slug": "internetsafety", "name": "Internet Safety"},
+            {"slug": "FreedomFounder", "name": "Freedom Founder"},
+            {"slug": "InvictusLeadershipCrisis", "name": "Invictus Leadership Crisis"}
         ]
     },
     {
