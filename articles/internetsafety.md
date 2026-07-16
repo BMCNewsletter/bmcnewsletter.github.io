@@ -1,4 +1,9 @@
 # Internet Safety And Security 
+---
+
+WRITTEN AND EDITED BY REIN
+
+---
 If you're not aware, this may be the time to educate yourself on the topic of Discord account theft, false blackmail, and data breaches. Here are just some quick run-downs of some common instances. 
 
 Celebrity Gambling Casino Promotion (CGCP )
