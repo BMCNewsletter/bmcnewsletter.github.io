@@ -1,4 +1,11 @@
 # Leadership Crisis Hits Invictus as Blood Steps Down
+---
+
+WRITTEN BY ZAK
+
+EDITED BY REIN
+
+---
 
 On July 9th, Invictus leader Blood released a public apology and announced his departure from the clan's leadership.
 
